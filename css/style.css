@@ -1,0 +1,40 @@
+/*global*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/*index*/
+#indexTex {
+    
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 85px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1CF0FA;
+
+
+}
+
+/*abertura*/
+
+
+/*menu*/
+
+
+/*jedi*/
+
+
+/*sith*/
